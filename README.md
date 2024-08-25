@@ -1,1 +1,8 @@
-# CS320-Journal
+# How can I ensure that my code, program, or software is functional and secure?
+Ensuring my code is functional and secure requires a couple moving parts working in tandem. The first is making sure I am writing clear, concise code that abides by the proper coding conventions. The next is ensuring I am utilizing proper testing to for my needs. Some testing types that could help create a well-rounded testing enviroment include unit testing, integration testing, and regression testing. Unit testing for ensuring individual components are functioning correctly. Integration testiong to ensure different models work together as they should. Regression testing to ensure updated code does not break existing code.  
+
+# How do I interpret user needs and incorporate them into a program?
+The first step to understanding user needs is gathering clear concise requirements from the client and document them. Once I have the requirements I need to validate them and restructure them in a way that can be translated to code (user) stories. From there, I would work each story into the project one at a time ensuring I've met all requirements for that story. This way I ensure the user/client requirements are being met. 
+
+# How do I approach designing software?
+To approach designing software I first must understand the problem. Break it down into a way I can understand it and solve it. Once I understand the problem I have to determine the best design type to implement, such as object oriented, functional, or component based programming. I will then determine if there will be any additional microservices needed for my project. The last steps include ensuring I have valid user stories and determine the development approach such as agile, waterfall, etc. From there I will code based on the development approach I decided on.
